@@ -1,0 +1,2 @@
+# ZastosowaniaSztucznejInteligencji
+Projekt zaliczeniowy na przedmiot Zastosowania Sztucznej inteligencji
