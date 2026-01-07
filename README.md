@@ -32,3 +32,15 @@ Aplikacja działa w oparciu o architekturę RAG-like (Retrieval-Augmented Genera
 2. Zainstaluj zależności:
    ```bash
    pip install -r requirements.txt
+   
+## 4. Przykłady Działania 
+
+1. Landing Page
+![asstes/homepage.png](assets/homepage.png)
+2. Procesowanie ankiety (wyslanie zapytania do LLM)
+![asstes/procesowanie_ankiety.png](assets/procesowanie_ankiety.png)
+3. Alokacja aktywów - wykres
+![asstes/alokacja_aktywow.png](assets/alokacja_aktywow.png)
+4. Alokacja aktywów - uzasadnienie
+![asstes/Uzasadnienie_decyzji.png](assets/Uzasadnienie_decyzji.png)
+
