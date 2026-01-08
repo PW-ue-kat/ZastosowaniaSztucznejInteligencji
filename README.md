@@ -30,8 +30,19 @@ Aplikacja działa w oparciu o architekturę RAG-like (Retrieval-Augmented Genera
 ### Instalacja
 1. Sklonuj repozytorium.
 2. Zainstaluj zależności:
+
    ```bash
    pip install -r requirements.txt
+
+3. Uruchom w osobnym oknie llama3.1
+
+   ```bash
+   ollama run llama3.1
+
+4. uruchom aplikację
+
+   ```bash
+   streamlit run src/app.py
    
 ## 4. Przykłady Działania 
 
